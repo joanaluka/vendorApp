@@ -4,9 +4,9 @@
     "slug": "vendor",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/icons/icon.png",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/images/powwater.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
@@ -17,16 +17,53 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
-    },
-    "android": {
-      "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#FFFFFF"
+      "supportsTablet": false,
+      "bundleIdentifier": "com.powwater.vendor",
+      "buildNumber": "1.0.51",
+      "icon": "./assets/icons/icon_background.png",
+      "googleServicesFile": "./config/GoogleService-Info.plist",
+      "infoPlist": {
+        "UIBackgroundModes": [
+          "location",
+          "fetch"
+        ],
+        "NSLocationWhenInUseUsageDescription": "Vendor Powwater uses your location to optimize the delivery experience.",
+        "NSLocationAlwaysAndWhenInUseUsageDescription": " Vendor Powwater uses your location to optimize the delivery experience.",
+        "NSLocationAlwaysUsageDescription": "Vendor Powwater uses your location to optimize the delivery experience.",
+        "NSUserTrackingUsageDescription": "Vendor Powwater uses Google Analytics & Sentry to track User & Device information to optimize User Performance & fix bugs faster."
       }
     },
+    "android": {
+      "icon": "./assets/icons/icon.png",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/icons/icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "permissions": [
+        "READ_EXTERNAL_STORAGE",
+        "READ_PHONE_STATE",
+        "VIBRATE",
+        "WRITE_EXTERNAL_STORAGE",
+        "ACCESS_BACKGROUND_LOCATION",
+        "ACCESS_COARSE_LOCATION",
+        "ACCESS_FINE_LOCATION",
+        "FOREGROUND_SERVICE",
+        "com.google.android.c2dm.permission.RECEIVE",
+        "com.google.android.gms.permission.ACTIVITY_RECOGNITION",
+        "com.google.android.providers.gsf.permission.READ_GSERVICES"
+      ],
+      "package": "com.powwater.vendor",
+      "versionCode": 51,
+      "googleServicesFile": "./config/google-services.json",
+      "splash": {
+        "backgroundColor": "#ffffff",
+        "resizeMode": "contain",
+        "image": "./assets/images/powwater.png"
+      },
+      "allowBackup": false
+    },
     "web": {
-      "favicon": "./assets/favicon.png"
+      "favicon": "./assets/icons/icon.png"
     }
   }
 }

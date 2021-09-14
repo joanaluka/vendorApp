@@ -1,0 +1,206 @@
+{
+  "project_info": {
+    "project_number": "808940348750",
+    "project_id": "powwater",
+    "storage_bucket": "powwater.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:808940348750:android:57cf8e75ec013adcc32a1f",
+        "android_client_info": {
+          "package_name": "com.powwater.customer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "808940348750-2rsfhe0sr5a649j5ajeqls90im2hnpat.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.powwater.customer",
+            "certificate_hash": "000c810ce9832c1ed0fbc535a3008e033bf0189b"
+          }
+        },
+        {
+          "client_id": "808940348750-3l9gfnpch70u7bui3p9r1nu1d3c15jfa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.powwater.customer",
+            "certificate_hash": "8e15464cb7a2dcc9ce2162a19fb11b5dbf3d0727"
+          }
+        },
+        {
+          "client_id": "808940348750-tc17kjkfh9hhl3epnq3lb7vnud35vnrc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.powwater.customer",
+            "certificate_hash": "d943d0c81c26611df30e3e16544c6aaccc8915ec"
+          }
+        },
+        {
+          "client_id": "808940348750-br710irlaq3b4ha35uf0jvjlprggb2lk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQqQpLUDU91eMppKgih9zPwBM-bj0EKSo"
+        },
+        {
+          "current_key": "AIzaSyBLbeUI4wyzcc0pBQjxScsx7y5elbJLe9k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "101575898368074188555",
+              "client_type": 3
+            },
+            {
+              "client_id": "808940348750-8ru02ca8m9lgp5hvahskjukq8hepi9fb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.powwater.customer.testing"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:808940348750:android:9d7350e71dc39cadc32a1f",
+        "android_client_info": {
+          "package_name": "com.powwater.customer.testing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "808940348750-br710irlaq3b4ha35uf0jvjlprggb2lk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQqQpLUDU91eMppKgih9zPwBM-bj0EKSo"
+        },
+        {
+          "current_key": "AIzaSyBLbeUI4wyzcc0pBQjxScsx7y5elbJLe9k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "101575898368074188555",
+              "client_type": 3
+            },
+            {
+              "client_id": "808940348750-8ru02ca8m9lgp5hvahskjukq8hepi9fb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.powwater.customer.testing"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:808940348750:android:d4f45899a6d3fa01c32a1f",
+        "android_client_info": {
+          "package_name": "com.powwater.driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "808940348750-6gl0i72rqj3c0or9v2i4gru3dj075flv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.powwater.driver",
+            "certificate_hash": "838335a7ad9b5193ba45614c56873ec9125467aa"
+          }
+        },
+        {
+          "client_id": "808940348750-g482udbr6telfl74aln61vqpn68h61v9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.powwater.driver",
+            "certificate_hash": "945d96845e5d5ed14bf00daa62f5c5fbfd95b3fc"
+          }
+        },
+        {
+          "client_id": "808940348750-br710irlaq3b4ha35uf0jvjlprggb2lk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQqQpLUDU91eMppKgih9zPwBM-bj0EKSo"
+        },
+        {
+          "current_key": "AIzaSyBLbeUI4wyzcc0pBQjxScsx7y5elbJLe9k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "101575898368074188555",
+              "client_type": 3
+            },
+            {
+              "client_id": "808940348750-8ru02ca8m9lgp5hvahskjukq8hepi9fb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.powwater.customer.testing"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:808940348750:android:33c373bdea4a8168c32a1f",
+        "android_client_info": {
+          "package_name": "com.powwater.riders.testing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "808940348750-br710irlaq3b4ha35uf0jvjlprggb2lk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQqQpLUDU91eMppKgih9zPwBM-bj0EKSo"
+        },
+        {
+          "current_key": "AIzaSyBLbeUI4wyzcc0pBQjxScsx7y5elbJLe9k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "101575898368074188555",
+              "client_type": 3
+            },
+            {
+              "client_id": "808940348750-8ru02ca8m9lgp5hvahskjukq8hepi9fb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.powwater.customer.testing"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
