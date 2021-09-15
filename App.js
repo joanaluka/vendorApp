@@ -5,6 +5,7 @@ import "react-native-gesture-handler";
 import { enableScreens } from "react-native-screens";
 enableScreens();
 
+
 // REQUIRED for Toasts (react-native-root-toast)
 // import { RootSiblingParent } from 'react-native-root-siblings';
 
